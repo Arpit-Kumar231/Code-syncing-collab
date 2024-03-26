@@ -26,6 +26,7 @@ footer a {
 .inputGroup {
   display: flex;
   flex-direction: column;
+  gap: 1;
 }
 
 .mainLabel {
@@ -34,7 +35,7 @@ footer a {
 }
 
 .homePageLogo {
-  height: 80px;
+  height: 79px;
   margin-bottom: 30px;
 }
 
@@ -43,7 +44,7 @@ footer a {
   border-radius: 5px;
   outline: none;
   border: none;
-  margin-bottom: 14px;
+  margin-bottom: 15px;
   background: #eee;
   font-size: 16px;
   font-weight: bold;
