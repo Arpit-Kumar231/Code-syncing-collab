@@ -67,12 +67,6 @@ export default function Home() {
           </span>
         </div>
       </div>
-      <footer>
-        <h4>
-          Built with love by{" "}
-          <a href="https://github.com/Arpit-Kumar231">Arpit</a>
-        </h4>
-      </footer>
     </div>
   );
 }
